@@ -1,0 +1,59 @@
+[
+    {
+        "id": "221aff21-cbed-49ec-9771-602fd5c5a4ef",
+        "name": "Pepsi",
+        "description": "0.5 л ",
+        "price": 33,
+        "src": "image/pepsi.jpg"
+    },
+    {
+        "id": "ced70121-4217-435c-bab5-0c9deec43ffb",
+        "name": "Sandora Яблучний",
+        "description": "1 л",
+        "price": 55,
+        "src": "image/sandora1.jpg"
+    },
+    {
+        "id": "7580ad8d-aa51-482a-b977-c7ab2a9eb984",
+        "name": "Sandora Ананасовий",
+        "description": "1 л",
+        "price": 55,
+        "src": "image/sandora2.jpg"
+    },
+    {
+        "id": "2a1bd728-a6a2-4433-8311-e4e974203ecc",
+        "name": "Sandora Вишневий",
+        "description": "1 л",
+        "price": 55,
+        "src": "image/sandora3.jpg"
+    },
+    {
+        "id": "934b388b-3167-4df9-907f-4224b8bce466",
+        "name": "Sandora Гранатовий",
+        "description": "1 л",
+        "price": 55,
+        "src": "image/sandora4.jpg"
+    },
+    {
+        "id": "eeeea6df-f763-4e75-823f-e35c2c413761",
+        "name": "7 up",
+        "description": "0.33 л",
+        "price": 29 ,
+        "src": "image/7up.jpg"
+    },
+    {
+        "id": "f2548abc-d595-42e5-9769-a044ed7d5f9f",
+        "name": "Боржомі",
+        "description": "0.5 л",
+        "price": 44 ,
+        "src": "image/borjomi.jpg"
+    },
+    {
+        "id": "f5281b36-57b4-4a88-ab6b-645fbce537c3",
+        "name": "Кока-кола",
+        "description": "0,33 л",
+        "price": 25 ,
+        "src": "image/coca.jpg"
+    }
+    
+]
